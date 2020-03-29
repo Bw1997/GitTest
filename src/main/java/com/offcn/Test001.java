@@ -14,5 +14,6 @@ public class Test001 {
 
     public void test002(){
         System.out.println("老鸟002");
+        System.out.println("用了你的一点代码");
     }
 }
