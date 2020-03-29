@@ -13,6 +13,6 @@ public class Test001 {
     }
 
     public void test002(){
-        System.out.println("布朗002");
+        System.out.println("香浓002");
     }
 }
