@@ -8,4 +8,11 @@ public class Test001 {
 
     //分支001新增了功能
 
+    public void test001(){
+        System.out.println("香浓001");
+    }
+
+    public void test002(){
+        System.out.println("香浓002");
+    }
 }
